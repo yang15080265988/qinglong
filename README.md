@@ -47,6 +47,7 @@ Timed task management platform supporting Python3, JavaScript, Shell, Typescript
 docker pull whyour/qinglong:latest
 docker pull whyour/qinglong:debian
 #端口 5700
+#添加本地存储 选择2 路径 /ql/data
 ```
 
 ### npm
