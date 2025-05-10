@@ -51,7 +51,7 @@ docker pull whyour/qinglong:debian
 #-----------------------------
 #拉起JD签到仓库 https://github.com/6dylan6/jdpro.git
 #定时规则 1 1 1 1 * 直接复制即可
-#变量名 JD_COOKIE    值 pt_key=AAJoHfQnAEDP0uMDG_dVG64vQsSz0WRFHW9nge2Czn24ViOb3tAmz8r5YhACmv2VWkO2efP20NGhOOwB1pkJw3UTgRpU_cf0;pt_pin=%E6%8B%94%E8%90%9D%E5%8D%9C%E7%9A%84%E5%B0%8F%E8%80%81%E9%BC%A01987;
+#变量名 JD_COOKIE    值 pt_key=xxxxxxx;pt_pin=xxxxxx;
 
 
 
