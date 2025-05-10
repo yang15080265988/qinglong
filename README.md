@@ -46,6 +46,7 @@ Timed task management platform supporting Python3, JavaScript, Shell, Typescript
 ```bash
 docker pull whyour/qinglong:latest
 docker pull whyour/qinglong:debian
+#端口 5700
 ```
 
 ### npm
